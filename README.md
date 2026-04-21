@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 The Project
+## 🚀 GTA-VI
 A high-fidelity recreation of the **Grand Theft Auto VI** landing page. This project is a deep dive into **Scroll-driven UI/UX**, utilizing GSAP's `ScrollTrigger` to create a seamless, cinematic storytelling experience in the browser.
 
 ### 🎯 Key Learning Objectives
@@ -77,3 +77,55 @@ useGSAP(() => {
 ```
 
 ---
+## 🛠️ Installation & Setup
+
+Follow these steps to get a local copy of the project up and running on your machine.
+
+### 1. Prerequisites
+Make sure you have **Node.js** (v18.0 or higher) and **npm** installed.
+* [Download Node.js](https://nodejs.org/)
+
+### 2. Clone the Repository
+```bash
+git clone [https://github.com/salonyranjan/GTA-VI.git](https://github.com/salonyranjan/GTA-VI.git)
+cd GTA-VI
+```
+### 3. Install Dependencies
+This will install React, GSAP, and Tailwind CSS.
+```bash
+npm install
+```
+### 4. Run the Development Server
+```bash
+npm run dev
+```
+### The application will be available at http://localhost:5173
+
+### 5. Build for Production
+To generate a production-ready build (for AWS EC2 or Vercel deployment):
+```bash
+npm run build
+```
+
+---
+
+## 👤 Author
+
+**Salony Ranjan**
+
+<p align="left">
+  <a href="https://linkedin.com/in/salony-ranjan-b63200280">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/salonyranjan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:salonyranjan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+<p align="center">
+  Recreated with ❤️ by Salony Ranjan | 2026
+</p>
