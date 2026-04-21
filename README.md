@@ -1,22 +1,29 @@
-# 🌴 GTA VI Landing Page
+# 🌴 GTA VI Cinematic Landing Page
 
 <p align="center">
   <img src="public/images/photo1.webp" width="100%" alt="GTA VI Banner" />
 </p>
 
 <p align="center">
+  <a href="https://gta-vi-woad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Dashboard-Visit_Site-88CE02?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-1a1a1a?style=for-the-badge&logo=greensock&logoColor=88CE02" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/salonyranjan/GTA-VI?style=social" />
-  <img src="https://img.shields.io/github/forks/salonyranjan/GTA-VI?style=social" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/github/last-commit/salonyranjan/GTA-VI?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
 </p>
+
+---
+
+## 🚀 Experience the Cinematic UI
+**Direct Link:** [https://gta-vi-woad.vercel.app/](https://gta-vi-woad.vercel.app/)
+
+This dashboard is a technical recreation focused on **scroll-driven storytelling**. By leveraging the power of **Vercel** for deployment, the high-resolution assets and GSAP timelines are optimized for low-latency performance.
 
 ---
 
