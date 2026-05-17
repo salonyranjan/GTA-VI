@@ -118,68 +118,38 @@ GTA VI is engineered to deliver the full Vice City atmosphere directly in the br
 
 ### 🌴 Immersive Hero Scene
 
-<div align="center">
-  <img src="public/images/photo1.webp" width="400" alt="GTA VI Hero Scene"/>
-  <p><i>Cinematic hero — GSAP fade-in orchestrated with scroll position scrubbing.</i></p>
-</div>
+<img src="public/images/photo1.webp" width="100%" alt="GTA VI Hero Scene" style="border-radius:12px;" />
 
 > 🎬 **GSAP timeline** syncs hero asset reveal directly to scroll entry · `.webp` format keeps 4K imagery under 200KB · Responsive viewport scaling via Tailwind breakpoints
 
----
+<br/>
 
 ### 🏙️ Narrative Content — *The Story Unfolds*
 
-<div align="center">
-  <img src="screen/c1.png" width="400" alt="GTA VI Content Section 1"/>
-  <p><i>Content section 1 — staggered text and image reveals tied to scroll depth.</i></p>
-</div>
+<img src="screen/c1.png" width="100%" alt="GTA VI Content Section 1" style="border-radius:12px;" />
+<img src="screen/c2.png" width="100%" alt="GTA VI Content Section 2" style="border-radius:12px;" />
+<img src="screen/c3.png" width="100%" alt="GTA VI Content Section 3" style="border-radius:12px;" />
 
-<div align="center">
-  <img src="screen/c2.png" width="400" alt="GTA VI Content Section 2"/>
-  <p><i>Content section 2 — parallax asset layering creates dimensional depth.</i></p>
-</div>
+> 🌊 Each content section uses a **dedicated ScrollTrigger timeline** — `start`, `end`, and `scrub` values are tuned per section for the perfect reveal cadence · Staggered text and image reveals tied to scroll depth · Parallax asset layering creates dimensional depth · Opacity and transform values scrubbed in real-time with scroll progress
 
-<div align="center">
-  <img src="screen/c3.png" width="400" alt="GTA VI Content Section 3"/>
-  <p><i>Content section 3 — opacity and transform values scrubbed in real-time with scroll progress.</i></p>
-</div>
-
-> 🌊 Each content section uses a **dedicated ScrollTrigger timeline** — `start`, `end`, and `scrub` values are tuned per section for the perfect reveal cadence
-
----
+<br/>
 
 ### 🎭 Cinematic Transitions — *Between Worlds*
 
-<div align="center">
-  <img src="screen/t1.png" width="400" alt="GTA VI Transition Scene 1"/>
-  <p><i>Transition 1 — cross-fade between scenes via opacity scrub on overlapping layers.</i></p>
-</div>
+<img src="screen/t1.png" width="100%" alt="GTA VI Transition Scene 1" style="border-radius:12px;" />
+<img src="screen/t2.png" width="100%" alt="GTA VI Transition Scene 2" style="border-radius:12px;" />
 
-<div align="center">
-  <img src="screen/t2.png" width="400" alt="GTA VI Transition Scene 2"/>
-  <p><i>Transition 2 — scale and blur effects echo the cinematic language of the official trailer.</i></p>
-</div>
+> ⚡ Transitions achieved by **stacking absolutely-positioned layers** and scrubbing their `opacity` values in opposite directions — no video, no canvas, pure CSS + GSAP · Cross-fade between scenes via opacity scrub on overlapping layers · Scale and blur effects echo the cinematic language of the official trailer
 
-> ⚡ Transitions achieved by **stacking absolutely-positioned layers** and scrubbing their `opacity` values in opposite directions — no video, no canvas, pure CSS + GSAP
-
----
+<br/>
 
 ### 🌅 Outro Finale — *The Cinematic Close*
 
-<div align="center">
-  <img src="screen/outro.png" width="400" alt="GTA VI Outro Section"/>
-  <p><i>The finale — final-message rises from below as content section fades to black.</i></p>
-</div>
+<img src="screen/outro.png" width="100%" alt="GTA VI Outro Section" style="border-radius:12px;" />
 
 > 🎯 The outro uses a **dual-timeline sequence**: `final-content` fades out while `final-message` simultaneously rises — perfectly choreographed via a shared GSAP `ScrollTrigger` scope
 
----
-
-<div align="center">
-
-*<i>"VertexFlow leverages GSAP ScrollTrigger to deliver a silky-smooth 60 FPS cinematic experience that adapts seamlessly across all device tiers."</i>*
-
-</div>
+<br/>
 
 <div align="center">
 
