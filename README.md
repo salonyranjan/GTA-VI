@@ -151,12 +151,12 @@ GTA VI is engineered to deliver the full Vice City atmosphere directly in the br
 ### 🎭 Cinematic Transitions — *Between Worlds*
 
 <div align="center">
-  <img src="public/images/photo5.webp" width="400" alt="GTA VI Transition Scene 1"/>
+  <img src="screen/t1.png" width="400" alt="GTA VI Transition Scene 1"/>
   <p><i>Transition 1 — cross-fade between scenes via opacity scrub on overlapping layers.</i></p>
 </div>
 
 <div align="center">
-  <img src="public/images/photo6.webp" width="400" alt="GTA VI Transition Scene 2"/>
+  <img src="screen/t2.png" width="400" alt="GTA VI Transition Scene 2"/>
   <p><i>Transition 2 — scale and blur effects echo the cinematic language of the official trailer.</i></p>
 </div>
 
