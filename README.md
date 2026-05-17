@@ -10,7 +10,7 @@
 
 <!-- ── Hero Image ── -->
 <a href="https://gta-vi-woad.vercel.app/" target="_blank">
-  <img src="public/images/photo1.webp" alt="GTA VI — Cinematic Landing Page" width="100%" style="border-radius:16px; box-shadow: 0 0 60px #88CE0255, 0 0 120px #FFD70040;" />
+  <img src="public/images/hero-bg.webp" alt="GTA VI — Cinematic Landing Page" width="100%" style="border-radius:16px; box-shadow: 0 0 60px #88CE0255, 0 0 120px #FFD70040;" />
 </a>
 
 <br/><br/>
