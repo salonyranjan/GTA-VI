@@ -167,7 +167,7 @@ GTA VI is engineered to deliver the full Vice City atmosphere directly in the br
 ### 🌅 Outro Finale — *The Cinematic Close*
 
 <div align="center">
-  <img src="public/images/photo7.webp" width="400" alt="GTA VI Outro Section"/>
+  <img src="screen/outro.png" width="400" alt="GTA VI Outro Section"/>
   <p><i>The finale — final-message rises from below as content section fades to black.</i></p>
 </div>
 
