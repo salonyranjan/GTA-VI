@@ -130,17 +130,17 @@ GTA VI is engineered to deliver the full Vice City atmosphere directly in the br
 ### 🏙️ Narrative Content — *The Story Unfolds*
 
 <div align="center">
-  <img src="public/images/photo2.webp" width="400" alt="GTA VI Content Section 1"/>
+  <img src="screen/c1.png" width="400" alt="GTA VI Content Section 1"/>
   <p><i>Content section 1 — staggered text and image reveals tied to scroll depth.</i></p>
 </div>
 
 <div align="center">
-  <img src="public/images/photo3.webp" width="400" alt="GTA VI Content Section 2"/>
+  <img src="screen/c2.png" width="400" alt="GTA VI Content Section 2"/>
   <p><i>Content section 2 — parallax asset layering creates dimensional depth.</i></p>
 </div>
 
 <div align="center">
-  <img src="public/images/photo4.webp" width="400" alt="GTA VI Content Section 3"/>
+  <img src="screen/c3.png" width="400" alt="GTA VI Content Section 3"/>
   <p><i>Content section 3 — opacity and transform values scrubbed in real-time with scroll progress.</i></p>
 </div>
 
